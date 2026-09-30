@@ -8,6 +8,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup Label="Global usings for console">
-    <Using Include="System.Console" Static="true"/>
+    <Using Include="System.Console" Static="true" />
   </ItemGroup>
 </Project>
